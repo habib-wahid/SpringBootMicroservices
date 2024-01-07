@@ -1,0 +1,8 @@
+#Intellij Idea file
+.idea/
+
+#target folders
+/discovery-server/target
+/inventory-service/target
+/product-service/target
+
